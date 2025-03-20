@@ -1,0 +1,20 @@
+title: McKenna Materials Modelling Group
+description: McKenna Materials Modelling Group
+lang: en-GB
+
+remote_theme: remote_theme: pages-themes/slate@v0.2.0
+
+navbar:
+  - link: "index.html"
+    text: "Home"
+  - link: "people.html"
+    text: "People"
+  - link: "research.html"
+    text: "Research"
+  - link: "publications.html"
+    text: "Publications"
+  - link: "vacancies.html"
+    text: "Vacancies"
+  - link: "news.html"
+    text: "News"
+
