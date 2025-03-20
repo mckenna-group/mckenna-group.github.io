@@ -1,0 +1,38 @@
+***
+Modelling grain boundaries in polycrystalline materials
+***
+Polycrystalline materials are ubiquitous in nature and find applications in many different areas of science and technology. Interfaces between crystallites in polycrystalline materials (grain bounadries) play a key role in determining many materials properties but are challenging to probe directly. To adress this issue we develop and apply first-principles based computational methods to predict the atomic-scale structure and properties of grain boundary defects. Working closely with experimental collaborators we have helped reveal the structure of grain boundaries in a wide range of materials (including MgO, HfO2, Si and TiO2) and discovered effects of both fundamental interest and relevance to applications. These include explaining the origin of asymmetry in the statistical variability of n- and p- channel poly-Si gate MOSFETs (Electron Device Letters), discovering a previously unknown form of charge trapping in a polycrystalline material negative electron affinity (Nature Materials), ....
+
+
+
+***
+Metal-oxide electronics
+***
+We are now developing approaches to model the electronic properties of grain boundaries, including associated defects, such as vacancies, in the oxide materials MgO and HfO2 (e.g. see Nature Materials, Microelectronics Engineering and PRB).
+
+ReRAM, leakage, GBs etc. filament.
+
+MgO MTJ, Fe3O4...
+
+
+***
+Charge trapping in materials
+***
+Polarons in HfO2, tio2, zro2. Surf trapping. ET at defects. self-interaction DFT. ET. 
+
+
+***
+Optical properties of nanostructured oxides
+***
+MgO nanopowders... luminesence..
+
+
+***
+Nanoparticles at finite temperature and pressure
+***
+Gold nanoparticles... NPG...
+
+
+When modelling the properties of nanoparticles it important to recognise that their structure is strongly influenced by their environment, which in many cases consists of an ambient atmosphere or solution at a finite temperature. Dynamical interactions between NPs and surrounding molecules can induce both overall morphology transformations and atomic scale fluctuations in their structure. As a consequence NP properties (optical, electronic and chemical, for example) can be significantly different from those predicted by simple models. This is important for numerous technological applications, e.g. heterogeneous catalysis, gas sensing, drug delivery (nanotoxicology), biological labelling technologies and also for the interpretation of fundamental studies in nanotechnology. In situ experimental studies on these systems are at present less well developed, however, dramatic morphological transformations have been observed recently. To model these systems we have developed new statistical methodologies, linked to first principles calculations. Recent work has shown how dynamical interactions between nanoparticles and surrounding molecules can induce both overall morphology transformations and atomic scale fluctuations in their structure (J. Phys. Chem. C and PCCP ).
+
+

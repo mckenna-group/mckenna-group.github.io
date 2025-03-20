@@ -1,0 +1,1 @@
+scp -r * km816@sftp.york.ac.uk:/usr/userfs/k/km816/web
